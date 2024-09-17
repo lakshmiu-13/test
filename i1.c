@@ -3,6 +3,9 @@ add()
   {
   printf("adition of two numbers");
   }
-sub();
+sub()
+  {
+  printf("substraction of two numbers");
+  }
 mul();
 }
