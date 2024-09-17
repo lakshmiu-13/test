@@ -1,0 +1,5 @@
+imsert{
+add();
+sub();
+mul();
+}
